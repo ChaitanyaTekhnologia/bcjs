@@ -1,0 +1,25 @@
+
+.winner-details-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .winner-details-title {
+   font-weight: bold;
+   font-family: sans-serif;
+  }
+
+  .winner-details-card {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .winner-details-label {
+    font-size: 18px;
+  }
+  
+  .winner-details-text {
+    font-size: 18px;
+  }
+  

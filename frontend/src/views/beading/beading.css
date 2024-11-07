@@ -1,0 +1,20 @@
+
+
+   .background_dropdown{
+    background-color: transparent!important;
+    border-color:#575656;
+   }
+   .background_dropdown:hover{
+
+    border-color:#575656;
+   }
+
+   
+   
+   .dropdown_width{
+    /* width:max-content; */
+    /* padding-right: 16rem; */
+    overflow:auto;
+    width:100%;
+   }
+
